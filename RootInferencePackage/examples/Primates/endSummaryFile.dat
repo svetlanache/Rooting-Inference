@@ -1,0 +1,61 @@
+CladeIndex freq[1] freq[2] overallFreq
+0 1.0000000 1.0000000 1.0000000
+1 1.0000000 0.0000000 0.5000000
+2 1.0000000 0.0000000 0.5000000
+3 1.0000000 0.0000000 0.5000000
+4 0.0000000 1.0000000 0.5000000
+5 0.0000000 1.0000000 0.5000000
+6 1.0000000 0.0000000 0.5000000
+7 1.0000000 0.0000000 0.5000000
+8 0.0000000 1.0000000 0.5000000
+9 0.0000000 1.0000000 0.5000000
+10 0.0000000 1.0000000 0.5000000
+11 1.0000000 1.0000000 1.0000000
+12 0.0000000 1.0000000 0.5000000
+13 0.0000000 1.0000000 0.5000000
+14 1.0000000 1.0000000 1.0000000
+15 1.0000000 0.0000000 0.5000000
+16 0.0000000 1.0000000 0.5000000
+17 1.0000000 1.0000000 1.0000000
+18 1.0000000 1.0000000 1.0000000
+19 1.0000000 1.0000000 1.0000000
+20 1.0000000 1.0000000 1.0000000
+21 1.0000000 0.0000000 0.5000000
+22 1.0000000 1.0000000 1.0000000
+23 1.0000000 0.0000000 0.5000000
+24 1.0000000 1.0000000 1.0000000
+25 1.0000000 1.0000000 1.0000000
+26 1.0000000 1.0000000 1.0000000
+27 1.0000000 1.0000000 1.0000000
+28 1.0000000 1.0000000 1.0000000
+29 1.0000000 1.0000000 1.0000000
+#0: [Gorilla]
+#1: [Homo_sapiens, Gorilla]
+#2: [Homo_sapiens, Hylobates, Pan, Pongo, Gorilla]
+#3: [Homo_sapiens, Hylobates, Saimiri_sciureus, Pan, Pongo, Gorilla]
+#4: [Homo_sapiens, Hylobates, Saimiri_sciureus, Tarsius_syrichta, Lemur_catta, Pan, Pongo, Gorilla]
+#5: [Homo_sapiens, Hylobates, Saimiri_sciureus, Tarsius_syrichta, Lemur_catta, Pan, Pongo, M_fascicularis, Gorilla]
+#6: [Homo_sapiens, Pan, Gorilla]
+#7: [Homo_sapiens, Pan, Pongo, Gorilla]
+#8: [Homo_sapiens, Tarsius_syrichta, Pan, Gorilla]
+#9: [Homo_sapiens, Tarsius_syrichta, Pan]
+#10: [Homo_sapiens, Tarsius_syrichta]
+#11: [Homo_sapiens]
+#12: [Hylobates, Lemur_catta, Pongo]
+#13: [Hylobates, Saimiri_sciureus, Lemur_catta, Pongo]
+#14: [Hylobates]
+#15: [Lemur_catta, M_fascicularis]
+#16: [Lemur_catta, Pongo]
+#17: [Lemur_catta]
+#18: [M_fascicularis]
+#19: [M_mulatta, Macaca_fuscata]
+#20: [M_mulatta]
+#21: [M_sylvanus, M_mulatta, Lemur_catta, M_fascicularis, Macaca_fuscata]
+#22: [M_sylvanus, M_mulatta, Macaca_fuscata]
+#23: [M_sylvanus, M_mulatta, Tarsius_syrichta, Lemur_catta, M_fascicularis, Macaca_fuscata]
+#24: [M_sylvanus]
+#25: [Macaca_fuscata]
+#26: [Pan]
+#27: [Pongo]
+#28: [Saimiri_sciureus]
+#29: [Tarsius_syrichta]
